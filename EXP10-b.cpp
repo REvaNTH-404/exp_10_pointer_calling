@@ -1,6 +1,3 @@
-//Harsh kumar
-//2470123146
-//B3
 //call by reference
 #include <iostream>
 using namespace std;
@@ -18,10 +15,13 @@ int main(){
  cout << a<<endl;
  cout<< b;
 }
+
+
 /* OUTPUT:
 swapped value of a 5
 swapped value of b 3
 5
 3
+
 
 */
