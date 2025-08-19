@@ -1,6 +1,3 @@
-//Harsh kumar
-//2470123146
-//B3
 //call by reference with increment
 #include <iostream>
 using namespace std;
@@ -16,8 +13,12 @@ int main(){
  cout << "original value  "<< a <<endl;
  swap(a);
 }
+
+
+
 /* OUTPUT:
 original value  3
 value incremented in function  48
+
 
 */
